@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anders Just Raae Andersen</h1>
 <h3 align="center">Aalborg University Software student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andersraae&label=Profile%20views&color=0e75b6&style=flat" alt="andersraae" /> </p>
-
 - 🌱 I’m currently learning **C**
 
 - 📫 How to reach me **andersraae01@gmail.com**
