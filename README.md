@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anders Just Raae Andersen</h1>
-<h3 align="center">Aalborg University Software student</h3>
+<h3 align="center">Aalborg University Copenhagen Software student</h3>
 
 - 🌱 I’m currently learning **C**
 
