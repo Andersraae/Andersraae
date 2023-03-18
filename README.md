@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anders Just Raae Andersen</h1>
 <h3 align="center">Aalborg University Copenhagen Software student</h3>
 
-- 🌱 I’m currently learning **C and Azure DevOps**
+- 🌱 I’m currently learning **Webdevelopment with JavaScript**
 
 - 📫 How to reach me **andersraae01@gmail.com**
 
