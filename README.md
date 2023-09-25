@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anders Just Raae Andersen</h1>
 <h3 align="center">Aalborg University Copenhagen Software student</h3>
 
-- 🌱 I’m currently learning **Web development with JavaScript**
+- 🌱 I’m currently learning **Web development, system development and UX design**
 
 - 📫 How to reach me **andersraae01@gmail.com**
 
