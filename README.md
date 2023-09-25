@@ -7,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  On <a href="https://www.linkedin.com/in/anders-just-raae-andersen-2680011a2/">LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
