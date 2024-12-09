@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Anders Just Raae Andersen</h1>
 <h3 align="center">Aalborg University Copenhagen Software student</h3>
 
-- 🌱 I’m currently learning **Scrum** and **Basic ML**
+- 🌱 I’m currently learning **Scrum**, **Basic ML** and **Database systems**
 
 - 📫 How to reach me **andersraae01@gmail.com**
 
