@@ -24,8 +24,6 @@
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andersraae&show_icons=true&theme=dark&locale=en&layout=compact" alt="andersraae" height="200" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andersraae&show_icons=true&theme=dark&locale=en" alt="andersraae" height="200" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andersraae&theme=dark" alt="andersraae" height="200" /></p>
